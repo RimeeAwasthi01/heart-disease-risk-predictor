@@ -1,4 +1,3 @@
-# heart-disease-risk-predictor
 # ❤️ Heart Disease Risk Predictor
 
 A simple Streamlit web app that estimates a person's risk of heart disease using a **K-Nearest Neighbors (KNN)** classification model trained on clinical health indicators.
